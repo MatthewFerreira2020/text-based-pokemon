@@ -1,0 +1,3 @@
+Text based game that includes some of the core mechanics of pokemon including trainer battles, pokemon battles, poke center, capture system and buying pokeballs.
+To accept a prompt type yes and to decline type no. When you start the first wild pokemon encounter will catch a pokemon. After that the option to catch a pokemon
+only appears when a wild pokemon is low on health.
